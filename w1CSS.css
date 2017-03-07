@@ -3,10 +3,14 @@ body{
 }
 h1{
   color: white;
-  text-align: center;
   font-size: 100px;
+  position: absolute;
+  left: 40%;
+  top: 25%;
 }
 p{
   color: white;
-  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
 }
